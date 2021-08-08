@@ -1,2 +1,2 @@
-# burntvictim
+# Burnt Victim
 Pentesting machine
