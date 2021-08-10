@@ -1,5 +1,5 @@
-# Burnt Victim
-Pentesting machine
+# Burnt Victim Hackable Machine (for Pentesting or education use only)
+
 
 Burnt Victim is a hackable machine that can be used as an educational or practice Pentesting tool for Red Teamers. There are at least 3 different ways to get the user and root flags using various tools and techniques. The machine is designed for beginners or novices at hacking. 
 
