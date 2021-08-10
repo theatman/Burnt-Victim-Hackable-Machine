@@ -8,7 +8,7 @@ I hope you have fun and that you try as many different ways as possible to captu
 
 GETTING STARTED
 
-1. Download the OVA file. (Link below)
+1. Download the OVA file (size: 14 GB). (Download link below)
 2. Export OVA into VirtualBox or VMWare.
 3. Make sure that Network Settings on your VM for the machine are set as "Host-only adapter."
 
