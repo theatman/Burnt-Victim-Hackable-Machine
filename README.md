@@ -16,4 +16,4 @@ NOTE: You will not be provided with passwords to log-in because the goal here is
 
 The link to download the OVA: https://drive.google.com/drive/u/1/folders/1LnCEeKCVluATzSvqirGDaz5aDBIy-ceD
 
-Questions? burntvictim1@gmail.com or stella.aquarii@gmail.com
+Questions? burntvictim1@gmail.com or dolores@infosecpath.com
